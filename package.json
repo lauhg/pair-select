@@ -1,7 +1,7 @@
 {
   "name": "pair-select",
   "main": "./lib/pair-select",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "select all the text inside the current pair for the `(){}[]\"\"''` character in the same line under the cursor.",
   "keywords": [],
   "activationCommands": {
