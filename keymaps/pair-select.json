@@ -1,0 +1,5 @@
+{
+  ".platform-darwin atom-text-editor": {
+    "ctrl-s": "pair-select:select-inside-pair"
+  }
+}

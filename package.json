@@ -1,0 +1,16 @@
+{
+  "name": "pair-select",
+  "main": "./lib/pair-select",
+  "version": "0.0.0",
+  "description": "select all the text inside the current pair for the `(){}[]\"\"''` character in the same line under the cursor.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "pair-select:select-inside-pair"
+  },
+  "repository": "https://github.com/thestylelove/pair-select",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
